@@ -4,7 +4,7 @@ Modern, karanlık mod (dark mode) odaklı ve sade bir yazılımcı portfolyo ara
 
 ## 📸 Tasarım Önizlemesi
 > **Not:** Buraya ekran görüntüsü eklemek tasarımı daha etkileyici kılar!
-> `![Tasarım Önizleme](screenshot.png)`
+> `![Tasarım Önizleme](portfolyo.png)`
 
 ## 🛠 Teknik Detaylar
 - **Saf CSS & HTML:** performans odaklı geliştirildi.
