@@ -1,4 +1,4 @@
-# 🎨 Minimalist Portfolio UI Design
+# 🎨 Minimalist Dev Portfolio
 
 Modern, karanlık mod (dark mode) odaklı ve sade bir yazılımcı portfolyo arayüz tasarımı.
 
