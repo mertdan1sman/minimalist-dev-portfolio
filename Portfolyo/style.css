@@ -1,0 +1,75 @@
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d1117; /* GitHub Dark Mode rengi */
+            color: #c9d1d9;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        header {
+            padding: 50px 20px;
+            text-align: center;
+        }
+
+        h1 { color: #58a6ff; margin-bottom: 10px; }
+        p { font-size: 1.2rem; color: #8b949e; }
+
+        /* Proje Kartları Alanı */
+        .container {
+            max-width: 900px;
+            width: 95%;
+            padding: 20px;
+        }
+
+        .project-card {
+            background-color: #161b22;
+            border: 1px border #30363d;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.2s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            border-color: #58a6ff;
+        }
+
+        .project-title {
+            color: #58a6ff;
+            font-size: 1.5rem;
+            margin: 0 0 10px 0;
+        }
+
+        .tech-stack {
+            display: flex;
+            gap: 10px;
+            margin: 10px 0;
+        }
+
+        .tech-badge {
+            background-color: #21262d;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            border: 1px solid #30363d;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #238636;
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+        .kullanici_resim{
+         width: 300px;
+         height: auto;
+         border-radius: 20px;
+        }
+
+        .btn:hover { background-color: #2ea043; }
