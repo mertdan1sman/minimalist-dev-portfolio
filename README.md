@@ -3,10 +3,11 @@
 Modern, karanlık mod (dark mode) odaklı ve sade bir yazılımcı portfolyo arayüz tasarımı.
 
 ## 📸 Tasarım Önizlemesi
-> **Not:** Buraya ekran görüntüsü eklemek tasarımı daha etkileyici kılar!
-> `![Tasarım Önizleme](portfolyo.png)`
+<img width="1920" height="1080" alt="portfolyo" src="https://github.com/user-attachments/assets/c2ef19fb-0df0-4225-bc78-e8b54a25d6a6" />
+
 
 ## 🛠 Teknik Detaylar
+
 - **Saf CSS & HTML:** performans odaklı geliştirildi.
 - **Responsive:** Mobil cihazlar ve tabletlerle tam uyumlu tasarım.
 - **Renk Paleti:** GitHub Dark Mode ve Cyber Slate tonları kullanılarak profesyonel bir hava sağlandı.
