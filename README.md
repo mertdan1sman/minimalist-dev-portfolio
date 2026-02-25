@@ -3,7 +3,8 @@
 Modern, karanlık mod (dark mode) odaklı ve sade bir yazılımcı portfolyo arayüz tasarımı.
 
 ## 📸 Tasarım Önizlemesi
-<img width="1920" height="auto" alt="portfolyo" src="https://github.com/user-attachments/assets/c2ef19fb-0df0-4225-bc78-e8b54a25d6a6" />
+<img width="1680" height="983" alt="minimalist-dev-porfolio-main" src="https://github.com/user-attachments/assets/3fd19797-c9dc-47eb-baa6-d94099f987b3" />
+
 
 
 ## 🛠 Teknik Detaylar
